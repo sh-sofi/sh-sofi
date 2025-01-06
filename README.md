@@ -9,3 +9,5 @@
 - 💎 Fun fact: I have my own collection of stones and crystals. So, from my travels, I always bring with me not a magnet but a stone instead.
 
 - 📫 Connect with me at [LinkedIn](https://www.linkedin.com/in/sofiia-shkoropad/)
+
+![Visitor Count](https://profile-counter.glitch.me/{sh-sofi}/count.svg)
