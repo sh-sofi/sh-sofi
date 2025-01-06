@@ -15,23 +15,28 @@
 ---
 
 <h3 align="left">🔧 Languages and Tools:</h3>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="display: inline-block;" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="display: inline-block;" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="display: inline-block;" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="display: inline-block;" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="display: inline-block;" />
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="display: inline-block;" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="display: inline-block;" />
-<img width="30px" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" style="display: inline-block;" />
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;" />
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;" />
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;" />
-<img width="30px" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" style="display: inline-block;" />
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;" />
-<img width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;" />
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;" />
-<img width="30px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" style="display: inline-block;" />
+<table>
+  <tr>
+    <td><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></td>
+    <td><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></td>
+    <td><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
+    <td><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></td>
+    <td><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></td>
+    <td><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" /></td>
+    <td><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></td>
+    <td><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></td>
+    <td><img width="30px" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" /></td>
+    <td><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" /></td>
+    <td><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" /></td>
+    <td><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" /></td>
+    <td><img width="30px" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" /></td>
+    <td><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></td>
+    <td><img width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></td>
+    <td><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" /></td>
+    <td><img width="30px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" /></td>
+  </tr>
+</table>
+
 
 ---
 
