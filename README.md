@@ -31,7 +31,7 @@
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
   <img width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
-  <img width="40px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
+  <img width="40px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" /> 
 </p>
 
 ---
