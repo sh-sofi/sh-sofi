@@ -1,7 +1,7 @@
 ## Hi there, welcome to my github profile 👋
 
 
-🌱 I am a FullStack Trainee Developer with a unique combination of technical expertise and creative vision. After 8 years of experience as a graphic designer, including leading a design team, I discovered my passion for programming, which has become my new professional focus.
+🌱 I am a Junior FullStack Developer with a unique combination of technical expertise and creative vision. After 8 years of experience as a graphic designer, including leading a design team, I discovered my passion for programming, which has become my new professional focus.
 
 🏆My goal at this moment is to continue improving my FullStack development skills and to learn Python.
 
